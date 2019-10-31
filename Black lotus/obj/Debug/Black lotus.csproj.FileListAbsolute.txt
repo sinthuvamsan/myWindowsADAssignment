@@ -1,0 +1,19 @@
+C:\Users\User\source\repos\Black lotus\Black lotus\bin\Debug\Black lotus.exe.config
+C:\Users\User\source\repos\Black lotus\Black lotus\bin\Debug\Black lotus.exe
+C:\Users\User\source\repos\Black lotus\Black lotus\bin\Debug\Black lotus.pdb
+C:\Users\User\source\repos\Black lotus\Black lotus\bin\Debug\MySql.Data.dll
+C:\Users\User\source\repos\Black lotus\Black lotus\bin\Debug\System.Data.dll
+C:\Users\User\source\repos\Black lotus\Black lotus\bin\Debug\Google.Protobuf.dll
+C:\Users\User\source\repos\Black lotus\Black lotus\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\source\repos\Black lotus\Black lotus\bin\Debug\MySql.Data.xml
+C:\Users\User\source\repos\Black lotus\Black lotus\obj\Debug\Black lotus.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Black lotus\Black lotus\obj\Debug\Black_lotus.signIn.resources
+C:\Users\User\source\repos\Black lotus\Black lotus\obj\Debug\Black_lotus.stockManagementFrame.resources
+C:\Users\User\source\repos\Black lotus\Black lotus\obj\Debug\Black_lotus.Properties.Resources.resources
+C:\Users\User\source\repos\Black lotus\Black lotus\obj\Debug\Black lotus.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Black lotus\Black lotus\obj\Debug\Black lotus.csproj.CopyComplete
+C:\Users\User\source\repos\Black lotus\Black lotus\obj\Debug\Black lotus.exe
+C:\Users\User\source\repos\Black lotus\Black lotus\obj\Debug\Black lotus.pdb
+C:\Users\User\source\repos\Black lotus\Black lotus\obj\Debug\Black_lotus.Form3.resources
+C:\Users\User\source\repos\Black lotus\Black lotus\obj\Debug\Black_lotus.Form4.resources
+C:\Users\User\source\repos\Black lotus\Black lotus\obj\Debug\Black_lotus.Form5.resources
